@@ -1,0 +1,73 @@
+
+
+.widenTest
+{
+    width: 50%;
+    background-color: #cccccc;
+    font-weight: 1200;
+    font-color: red;
+    color: yellow;
+}
+
+.widen-thumbnail-column
+{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+    width: 150px;
+}
+
+.widen-link-submit
+{
+    background: none;
+    border: none;
+    color: 	#21759B;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.widen-link-submit:hover
+{
+    color: red;
+}
+
+.widen-media-nav 
+{
+    float:right;
+}
+
+.widen-media-nav a 
+{
+    background: none repeat scroll 0 0 #EEEEEE;
+    border-color: #E3E3E3;
+    box-shadow: 0 1px 0 #FFFFFF inset;
+    padding: 3px 6px;
+    text-decoration: none;
+}
+
+.widen-nav-asset-range 
+{
+    font-size: 12px;
+    font-style: italic;
+    margin-right: 10px;
+}
+
+a.disabled:focus 
+{
+    color: #AAAAAA;
+}
+
+a.disabled:hover
+{
+    color: #0000A0;
+}
+
+#widen_media_loading
+{
+    background: url(../images/ajax_loader_blue_128.gif) no-repeat scroll center center #FFF;
+    background-color: #dddddd;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    opacity:0.5;
+}
