@@ -1,0 +1,14 @@
+{
+    "name": "plasticmind/widendam",
+    "description": "Add Assets from your Widen DAM system into WordPress posts, pages, and the Media Library.  To get started, configure the connection to your Collective site in 'Settings|Widen DAM Settings', then search for Assets in 'Media|Widen DAM Library'.",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Widen Enterprises"
+    }]
+}
